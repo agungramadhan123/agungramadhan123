@@ -38,8 +38,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,nextjs,go" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,c++,express,nextjs,go" /><br>
 </div>
 
 <br/>
