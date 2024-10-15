@@ -12,11 +12,9 @@
  
  🔭 I’m currently study on **Telkom University**
  
- 🌱 I’m currently learning **Typescript, Tensorflow**
+ 🌱 I’m currently learning **Data analis**
 
-💬 Ask me about **React.js, Next.js, Python... or anything**
 
-⚡ Fun fact **JavaScript was created in just 10 days in 1995**
 
  </div>
  
